@@ -30,7 +30,7 @@ Using Python to analyze the dataset contains shopping information from 10 differ
 ### Comparing the total quantity among categories by age:
 ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/917c333e-b48e-411a-8f2b-75ab1c3b4a4f)
 ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/024e4d96-3766-4a81-b20e-c891bb0482fb)
-![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/eb397a82-f1f0-4c3d-b64a-47b7e4d26847)
+
 
 
 

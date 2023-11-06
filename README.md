@@ -2,7 +2,7 @@
 ## Overview: 
 Using Python to analyze the dataset contains shopping information from 10 different shopping malls between 2021 and 2023. The dataset includes essential information such as invoice numbers, customer IDs, age, gender, payment methods, product categories, quantity, price, order dates, and shopping mall locations. The purpose of this analysis is to gain insights into shopping trends and patterns in Istanbul. This analysis also can help you understand how purchasing behavior differs between genders, and among age groups in various product categories and can be valuable for market research, business decision-making, and marketing strategies.
 ## Result:
-### Comparing the total quantity by gender and categories:
+### Comparing the total quantity by genders and categories:
  #### Summary by Gender Category:
  ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/c2492d25-7795-417e-b3ed-03272203eab0)
  ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/7a2274a0-7c43-4540-8e9a-415517346a6d)
@@ -16,7 +16,7 @@ Using Python to analyze the dataset contains shopping information from 10 differ
  - "Clothing" appears to be the highest-selling category.
  - The "Souvenir", "Books", and "Technology" categories seem to have lower sales compared to others.
    
-### Comparing the revenue among categories by gender and categories: 
+### Comparing the revenue among categories by genders and categories: 
 #### Summary by Gender Category:
 ![Capture3](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/9e5577c9-5352-4056-bc70-4d2d8b7576bc)
 ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/c8fca0a0-1c45-4df8-a44b-999fb451ded3)

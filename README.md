@@ -1,6 +1,6 @@
 # Shopping_mall_analysis
 ## Overview: 
-Using Python to analyze the dataset contains shopping information from 10 different shopping malls between 2021 and 2023. The dataset includes essential information such as invoice numbers, customer IDs, age, gender, payment methods, product categories, quantity, price, order dates, and shopping mall locations. The purpose of this analysis is to gain insights into shopping trends and patterns in Istanbul.
+Using Python to analyze the dataset contains shopping information from 10 different shopping malls between 2021 and 2023. The dataset includes essential information such as invoice numbers, customer IDs, age, gender, payment methods, product categories, quantity, price, order dates, and shopping mall locations. The purpose of this analysis is to gain insights into shopping trends and patterns in Istanbul. This analysis also can help you understand how purchasing behavior differs between genders, and among age groups in various product categories and can be valuable for market research, business decision-making, and marketing strategies.
 ## Result:
 ### Comparing the total quantity by gender and categories:
  #### Summary by Gender Category:
@@ -18,11 +18,12 @@ Using Python to analyze the dataset contains shopping information from 10 differ
 ### Comparing the revenue among categories by gender and categories: 
 #### Summary by Gender Category:
 ![Capture3](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/9e5577c9-5352-4056-bc70-4d2d8b7576bc)
-![Capture4](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/b3150944-2e65-45c5-a5a9-ea7c00a14117)
+![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/c8fca0a0-1c45-4df8-a44b-999fb451ded3)
+
 - For females, the total revenue: 40,920,861.62.
 - For males, the total revenue: 27,629,564.29.
 - Both Females and males spent the most money on "Clothing" category
-- The "Souvenir" category has relatively lower revenue compared to others for both genders.
+- The "Souvenir", 'Book", and "Food & Beverage" category has relatively lower revenue compared to others for both genders.
 #### Summary by Product Category:
 ![Capture6](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/a63d1883-d895-455e-880f-19fdb4ced949)
 - "Clothing" stands out as the highest revenue.

@@ -29,9 +29,10 @@ Using Python to analyze the dataset contains shopping information from 10 differ
 ![Capture6](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/a63d1883-d895-455e-880f-19fdb4ced949)
 - "Clothing" stands out as the highest revenue.
 - "Souvenir" stands out as the lowest revenue.
-### Comparing the total quantity among categories by age:
+### Comparing the total quantity for each category by age groups:
 ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/917c333e-b48e-411a-8f2b-75ab1c3b4a4f)
-![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/024e4d96-3766-4a81-b20e-c891bb0482fb)
+![a1](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/75d3bfc7-a067-491e-99cc-136ef025585d)
+
 - Clothing is the most popular category across all age groups.
 - 
 - The "30-50 Age Group" has the highest total sales, with 129,506 units sold across all categories.

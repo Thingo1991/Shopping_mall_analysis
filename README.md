@@ -5,7 +5,8 @@ Using Python to analyze the dataset contains shopping information from 10 differ
 ### Comparing the total quantity by gender and categories:
  #### Summary by Gender Category:
  ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/c2492d25-7795-417e-b3ed-03272203eab0)
- ![Capture1](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/58339ca0-c958-47ba-99f3-999fed7145c1)
+ ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/7a2274a0-7c43-4540-8e9a-415517346a6d)
+
  - For females, The total sales across all categories: 178,659 items
  - For males, The total sales across all categories: 120053 items
  - For each category, females purchased more quantity than males.

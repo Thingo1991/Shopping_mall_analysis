@@ -33,9 +33,7 @@ Using Python to analyze the dataset contains shopping information from 10 differ
 ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/917c333e-b48e-411a-8f2b-75ab1c3b4a4f)
 ![image](https://github.com/Thingo1991/Shopping_mall_analysis/assets/149863801/20ff0152-8a7f-4c49-ac85-ffd2a92ee51c)
 
-
 - Clothing is the most popular category across all age groups.
-- 
 - The "30-50 Age Group" has the highest total sales, with 129,506 units sold across all categories.
 
 
